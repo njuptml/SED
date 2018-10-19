@@ -27,8 +27,9 @@ Environment Configuration:
 		http://www.cs.toronto.edu/~tijmen/gnumpy.html
 
 Run the Code：
-  1. run the MATLAB code "start_DPC" first
-	2. run the MATLAB code "demo_new.m", you need to input 'GPCR name', 'Length of ECFPs', 'radius of ECFPs'
+
+	- run the MATLAB code "start_DPC" first
+	- run the MATLAB code "demo_new.m", you need to input 'GPCR name', 'Length of ECFPs', 'radius of ECFPs'
 	For example: 'P08908' 1024 6
 	Tips:
 	1)Never forget the quotation marks.
